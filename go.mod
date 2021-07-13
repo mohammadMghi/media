@@ -1,4 +1,4 @@
-module github.com/go-m/media
+module github.com/mohammadMghi/auth
 
 go 1.12
 

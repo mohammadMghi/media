@@ -3,7 +3,7 @@ package handler
 import (
 	"fmt"
 	gm "github.com/go-ginger/models"
-	"github.com/go-m/media/base"
+	"github.com/mohammadMghi/auth/base"
 	"github.com/nfnt/resize"
 	"image"
 	_ "image/gif"

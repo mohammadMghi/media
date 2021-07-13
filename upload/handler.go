@@ -2,8 +2,8 @@ package upload
 
 import (
 	gm "github.com/go-ginger/models"
-	"github.com/go-m/media/base"
-	"github.com/go-m/media/handler"
+	"github.com/mohammadMghi/auth/base"
+	"github.com/mohammadMghi/auth/handler"
 )
 
 type IHandler interface {
