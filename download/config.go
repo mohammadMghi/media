@@ -1,6 +1,6 @@
 package download
 
-import ab "github.com/go-m/auth/base"
+import ab "github.com/mohammadMghi/auth/base"
 
 type Config struct {
 	LoginHandler ab.ILoginHandler
